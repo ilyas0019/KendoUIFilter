@@ -1,0 +1,4 @@
+D:\Sanjay\Projects\DemoApp\App.Core\bin\Debug\App.Core.dll
+D:\Sanjay\Projects\DemoApp\App.Core\bin\Debug\App.Core.pdb
+D:\Sanjay\Projects\DemoApp\App.Core\obj\Debug\App.Core.dll
+D:\Sanjay\Projects\DemoApp\App.Core\obj\Debug\App.Core.pdb

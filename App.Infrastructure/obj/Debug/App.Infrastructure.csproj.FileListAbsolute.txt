@@ -1,0 +1,12 @@
+D:\Sanjay\Projects\DemoApp\App.Infrastructure\bin\Debug\App.Infrastructure.dll.config
+D:\Sanjay\Projects\DemoApp\App.Infrastructure\bin\Debug\App.Infrastructure.dll
+D:\Sanjay\Projects\DemoApp\App.Infrastructure\bin\Debug\App.Infrastructure.pdb
+D:\Sanjay\Projects\DemoApp\App.Infrastructure\bin\Debug\EntityFramework.dll
+D:\Sanjay\Projects\DemoApp\App.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sanjay\Projects\DemoApp\App.Infrastructure\bin\Debug\EntityFramework.xml
+D:\Sanjay\Projects\DemoApp\App.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sanjay\Projects\DemoApp\App.Infrastructure\obj\Debug\App.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Sanjay\Projects\DemoApp\App.Infrastructure\obj\Debug\App.Infrastructure.dll
+D:\Sanjay\Projects\DemoApp\App.Infrastructure\obj\Debug\App.Infrastructure.pdb
+D:\Sanjay\Projects\DemoApp\App.Infrastructure\bin\Debug\App.Core.dll
+D:\Sanjay\Projects\DemoApp\App.Infrastructure\bin\Debug\App.Core.pdb

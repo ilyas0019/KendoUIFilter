@@ -1,0 +1,36 @@
+﻿body {
+}
+
+.menu
+{
+    
+    padding:0;
+    margin:0;
+    margin-bottom:10px;
+}
+
+.menu li
+{
+    display:inline;
+    margin-left:10px;
+    font-size:16px;
+    
+}
+.menu li a
+{
+    text-decoration:none;
+    
+}
+
+.menu li a:visited
+{
+    color:blue;
+}
+.menu li a:active
+{
+    color:red;
+}
+.menu li a:hover
+{
+    color:red;
+}
